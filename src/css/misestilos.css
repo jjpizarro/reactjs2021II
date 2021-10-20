@@ -1,0 +1,12 @@
+.avatar{
+    height: 80px;
+    width: 80px;
+    border-radius: 50%;
+}
+
+.item{
+    padding: 20px 0;
+    border-top: 1px solid #dcdbd3;
+    
+    
+}
